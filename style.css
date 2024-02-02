@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    background-color: black;
+}
+form{
+    background-color: yellow;
+    padding: 50px;
+    border-radius: 20px;
+}
+h2{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+.button1{
+    color: green;
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+.button2{
+color: purple;
+background-color: white;
+padding: 5px;
+border-radius: 10px;
+
+
+}
